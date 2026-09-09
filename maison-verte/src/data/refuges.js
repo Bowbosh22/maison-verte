@@ -34,9 +34,9 @@ export const refuges = [
     location: 'Bord du lagon',
     description: "Une villa contemporaine en bois clair, ouverte sur un jardin privé et un bassin naturel. Deux chambres, un salon lumineux, une cuisine ouverte pour ceux qui veulent cuisiner leurs produits du marché.",
     features: ['Piscine privée à débordement', 'Cuisine équipée', 'Terrasse en bois 40m²', 'Deux chambres king', 'SPA privatif'],
-    coverImage: 'https://images.unsplash.com/photo-1610530460358-dc0930cad5a3?w=1400&q=80',
+    coverImage: 'https://images.unsplash.com/photo-1777919541977-16d7271ac96e?w=1400&q=80',
     images: [
-      'https://images.unsplash.com/photo-1610530460358-dc0930cad5a3?w=1800&q=80',
+      'https://images.unsplash.com/photo-1777919541977-16d7271ac96e?w=1800&q=80',
       'https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1800&q=80',
       'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1800&q=80',
     ],
